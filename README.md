@@ -22,3 +22,4 @@ All the following libraries are needed to implement this project:
 ### Project Motivation <a name = "motivation"></a>
 
 This project is aimed to understand the hottest trends in ML using papers from NIPS (Neural Information Processing Systems) and how ML in general has evolved over time and what we need to know before we incorporate ML into our products and services.
+
