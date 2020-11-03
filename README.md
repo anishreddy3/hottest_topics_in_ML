@@ -1,4 +1,6 @@
-## Hottest topics in ML from NIPS ### Table of contents 
+## Hottest topics in ML from NIPS 
+
+### Table of contents 
 
 1. [Dependencies](#dependencies)
 2. [Project Motivation](#motivation)
