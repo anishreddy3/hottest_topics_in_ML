@@ -25,3 +25,6 @@ All the following libraries are needed to implement this project:
 
 This project is aimed to understand the hottest trends in ML using papers from NIPS (Neural Information Processing Systems) and how ML in general has evolved over time and what we need to know before we incorporate ML into our products and services.
 
+### Files Description <a name = "description"></a>
+
+All papers from NIPS are split into eight parts and stored in datasets/ directory.
